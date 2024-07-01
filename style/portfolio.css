@@ -3,6 +3,7 @@ nav{
     display:flex;
     justify-content: space-between; 
     align-items: center;
+    padding: 0 200px;
 }
 /* margin: 0; */
 
@@ -36,6 +37,17 @@ nav li{
 }
 nav a{
     text-decoration: none;
-    color: rebeccapurple;
-    
+    color: rebeccapurple;  
+}
+/* header related style */
+.header{
+    background-color: wheat;
+}
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+width: 500px;
 }
