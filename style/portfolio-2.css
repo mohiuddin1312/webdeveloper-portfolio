@@ -1,0 +1,24 @@
+/* nav related style */
+.nav{
+    display:flex;
+}
+/* header and navigation style */
+
+
+.open-sans-uniquifier {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings: "width" 100;
+}
+.nav-title{
+    font-weight:800;
+    font-size: 45px;
+}
+.text-prymary{
+    color: orange;
+}
+nav > ul{
+    display: flex;
+}
