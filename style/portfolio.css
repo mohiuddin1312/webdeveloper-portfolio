@@ -75,7 +75,10 @@ width: 500px;
 
 
 /* main sections style */
-
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* about sections style */
 .about{
@@ -94,4 +97,11 @@ width: 500px;
     color: #757575;
     text-align: center;
     font-size: 18px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
