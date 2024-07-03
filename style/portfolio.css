@@ -130,3 +130,37 @@ padding: 30px 150px;
     font-size: 30px;
     font-weight: 700;
 }
+.resume-container{
+    display: flex;
+    gap: 50;
+}
+.section-title{
+    display: flex;
+}
+.resume-item-instute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.resume-item-discription{
+    color: #474747;  
+}
+.resume-item-title{
+    color: #474747;
+    font-size: 25px;
+    font-weight: 700;   
+}
+.resume-container hr{
+    margin: 30px;
+}
+.dowload-cv{
+    text-align: center;
+    margin-top: 50px; 
+    color: orange;
+}
+/* footer style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100pox;
+    padding: 130px 200px;
+}
